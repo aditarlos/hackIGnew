@@ -20,9 +20,9 @@ echo -e $'''
             
             
             -=[ Multiple Bruteforce For Instagram ]=-
-              
+            -=[     Recoder By Adit Arlos         ]=- 
 
-\e[1;31m      contact: https://wa.me/+6288802832083\e[1;37m
+\e[1;31m      contact: topimiring144@gmail.com\e[1;37m
 '''
 
 # dependencies
